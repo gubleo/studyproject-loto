@@ -1,0 +1,9 @@
+C:\Users\borges\source\repos\projetoLotomania\projetoLotomania\bin\Debug\projetoLotomania.exe
+C:\Users\borges\source\repos\projetoLotomania\projetoLotomania\bin\Debug\projetoLotomania.pdb
+C:\Users\borges\source\repos\projetoLotomania\projetoLotomania\obj\Debug\projetoLotomania.csprojAssemblyReference.cache
+C:\Users\borges\source\repos\projetoLotomania\projetoLotomania\obj\Debug\projetoLotomania.Properties.Resources.resources
+C:\Users\borges\source\repos\projetoLotomania\projetoLotomania\obj\Debug\projetoLotomania.csproj.GenerateResource.cache
+C:\Users\borges\source\repos\projetoLotomania\projetoLotomania\obj\Debug\projetoLotomania.csproj.CoreCompileInputs.cache
+C:\Users\borges\source\repos\projetoLotomania\projetoLotomania\obj\Debug\projetoLotomania.exe
+C:\Users\borges\source\repos\projetoLotomania\projetoLotomania\obj\Debug\projetoLotomania.pdb
+C:\Users\borges\source\repos\projetoLotomania\projetoLotomania\obj\Debug\projetoLotomania.Lotomania.resources
